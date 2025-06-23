@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amrender Singh
-- 👀 I’m interested in Data Analysis, Software development
-- 🌱 I’m currently learning Web Devlopement and Machine Learning
+- 👀 I’m interested in Data Analysis, Software Development
+- 🌱 I’m currently learning Web Development and Machine Learning
 - 💞️ I’m looking to collaborate on Data analysis
 - 📫 contact me at amrendersingh2411@gmail.com
 - 😄 Pronouns: he
